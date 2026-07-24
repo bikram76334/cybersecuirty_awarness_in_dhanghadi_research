@@ -122,8 +122,6 @@ This demonstrates a significant gap between cybersecurity knowledge and real-wor
 ├── Dataset/
 ├── Analysis/
 ├── Charts/
-├── Research Report/
-├── Presentation/
 └── README.md
 ```
 
